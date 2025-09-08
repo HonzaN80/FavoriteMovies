@@ -1,0 +1,1 @@
+The database of the favorite movies. User should be able to add or remove the movies and search them by categires.
